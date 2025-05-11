@@ -1,4 +1,4 @@
-# Dieses Projekt wurde durch die Implementierung des eigenen ical Kalenders unnötig.
+*Dieses Projekt wurde durch die Implementierung des eigenen ical Kalenders im Intern unnötig.*
 
 # palindrome-ical
 Dieses Skript nimmt alle Proben aus dem Intern Probenplan und packt sie in eine iCal Datei.
